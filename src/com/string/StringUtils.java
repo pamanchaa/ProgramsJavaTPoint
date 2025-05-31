@@ -1,4 +1,5 @@
  package com.string;
+ 
 public class StringUtils {
 
     // 1. Count total characters in a string
